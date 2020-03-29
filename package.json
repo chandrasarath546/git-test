@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Test directory",
+  "main": " index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrasarath546/git-test.git"
+  },
+  "author": "sharat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrasarath546/git-test/issues"
+  },
+  "homepage": "https://github.com/chandrasarath546/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
